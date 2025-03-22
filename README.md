@@ -1,7 +1,7 @@
 # Video-Based Hardware Random Number Generator (HRNG)
 
 ## Overview
-This project implements a Video-Based Hardware Random Number Generator (HRNG) leveraging video frames as a source of entropy. The randomness is extracted through a series of processing steps, validated using statistical methods, and utilized for cryptographic key generation. The project demonstrates how natural entropy sources can be integrated into cryptographic systems for enhanced security.
+This project implements a Video-Based Hardware Random Number Generator (HRNG) leveraging video frames as a source of entropy. The randomness is extracted through a series of processing steps, validated using statistical methods and utilized for cryptographic key generation. The project demonstrates how natural entropy sources can be integrated into cryptographic systems for enhanced security.
 
 ---
 
@@ -26,6 +26,3 @@ This project implements a Video-Based Hardware Random Number Generator (HRNG) le
   - `scipy`
   - `pycryptodome`
 
-Install dependencies using:
-```bash
-pip install opencv-python numpy matplotlib scipy pycryptodome
