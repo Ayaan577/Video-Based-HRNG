@@ -18,8 +18,7 @@ This project implements a Video-Based Hardware Random Number Generator (HRNG) le
 ---
 
 ## Requirements
-- Python 3.7+
-- Dependencies:
+- Libraries:
   - `opencv-python`
   - `numpy`
   - `matplotlib`
